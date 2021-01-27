@@ -132,4 +132,26 @@ header {
 }
 
 /* fine banner */
+
+/* inizio main */
+
+.subtitle {
+  height: 15vh;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.subtitle_text {
+padding: 30px;
+}
+
+.subtitle h1 {
+  font-size: 50px;
+}
+
+.subtitle p {
+  color: darkgrey;
+  font-size: 120%
+}
+
 /* da cancellare  */
